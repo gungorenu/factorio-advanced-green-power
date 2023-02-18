@@ -1,0 +1,13 @@
+{
+  "name": "advanced-green-power",
+  "version": "1.0.0",
+  "title": "Advanced Green Power",
+  "author": "gungorenu",
+  "homepage": "",
+  "factorio_version": "1.1",
+  "dependencies": ["base"],
+  "description": "adds advanced versions of solar panel and accumulators",
+  "package": {
+    "ignore": ["**/*.sh"]
+  }
+}
